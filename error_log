@@ -1,0 +1,24 @@
+[26-Aug-2019 12:20:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/functions/connection.php on line 6
+[26-Aug-2019 12:20:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/functions/connection.php on line 6
+[26-Aug-2019 12:20:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/index.php on line 405
+[26-Aug-2019 12:20:24 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/index.php on line 405
+[26-Aug-2019 12:21:33 UTC] PHP Notice:  Undefined index: email in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/my-account.php on line 328
+[26-Aug-2019 12:25:27 UTC] PHP Notice:  Undefined index: email in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/my-account.php on line 328
+[31-Aug-2019 12:03:14 UTC] PHP Notice:  Undefined index: cat in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/shop-grid.php on line 381
+[31-Aug-2019 12:03:14 UTC] PHP Notice:  Undefined index: cat in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/shop-grid.php on line 469
+[31-Aug-2019 13:01:14 UTC] PHP Notice:  Undefined index: email in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/my-account.php on line 328
+[08-Sep-2019 06:45:22 UTC] PHP Notice:  Undefined index: cat in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/shop-grid.php on line 381
+[08-Sep-2019 06:45:22 UTC] PHP Notice:  Undefined index: cat in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/shop-grid.php on line 469
+[08-Sep-2019 15:19:00 UTC] PHP Notice:  Undefined index: email in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/my-account.php on line 328
+[09-Sep-2019 04:03:09 UTC] PHP Notice:  Undefined index: cat in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/shop-grid.php on line 381
+[09-Sep-2019 04:03:09 UTC] PHP Notice:  Undefined index: cat in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/shop-grid.php on line 469
+[17-Sep-2019 19:44:34 UTC] PHP Notice:  Undefined index: cat in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/shop-grid.php on line 381
+[17-Sep-2019 19:44:34 UTC] PHP Notice:  Undefined index: cat in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/shop-grid.php on line 469
+[20-Sep-2019 07:17:24 UTC] PHP Notice:  Undefined index: email in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/my-account.php on line 328
+[23-Sep-2019 15:56:37 UTC] PHP Notice:  Undefined index: cat in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/shop-grid.php on line 381
+[23-Sep-2019 15:56:37 UTC] PHP Notice:  Undefined index: cat in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/shop-grid.php on line 469
+[26-Sep-2019 04:01:06 UTC] PHP Notice:  Undefined index: cat in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/shop-grid.php on line 381
+[26-Sep-2019 04:01:06 UTC] PHP Notice:  Undefined index: cat in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/shop-grid.php on line 469
+[22-Oct-2019 15:05:51 UTC] PHP Notice:  Undefined index: email in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/my-account.php on line 328
+[22-Oct-2019 15:06:11 UTC] PHP Notice:  Undefined index: email in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/my-account.php on line 328
+[22-Oct-2019 15:09:10 UTC] PHP Notice:  Undefined index: email in /home/lyyv8zep59cq/public_html/estore.pixsonik.com/my-account.php on line 328
